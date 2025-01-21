@@ -35,4 +35,4 @@ https://github.com/user-attachments/assets/7067c0ff-05e0-4ef3-aa60-52575f9811e7
 
 ## Screenshots
 
-![Uploading drones_1.png…]()
+<img width="2499" alt="drones_1" src="https://github.com/user-attachments/assets/05e5136b-501d-4637-8c7b-41be2840b53e" />
