@@ -19,7 +19,7 @@ The "Drone App" is an Android-based demo application that fully integrates the D
   - Coil – Image loading for optimized display
   - Google Maps – For drone navigation and real-time location tracking
 
-Features
+## Features
 
   - Full DJI SDK integration for complete drone control
   - On-device object detection powered by TensorFlow
